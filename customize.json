@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi",
+  "name": "Munira",
+  "greetingText": "I really like your name btw!",
+  "wishText": "May the js.prototypes always be with you! ;)",
+  "imagePath": "img/munira.jpeg",
+  "text1": "It's your birthday!!!",
+  "textInChatBox": "“Happy Birthday! I wish you a day full of happiness and a year where all your dreams come true. Have a wonderful celebration!”",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "",
+  "replayText": "click, if you want to watch it again.",
+  "outroSmiley": ""
+}
